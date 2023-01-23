@@ -3,14 +3,9 @@
 <img src = https://raw.githubusercontent.com/beast001/beast001/main/.github/images/image.png alt= "Banner that says my name and skills">
 
 
-I am a software Engineer and Data Analyst with a passion in Artificial Intelligence, Data and building Compunities.
-I have a strong analytical mindset and am able to identify patterns and trends in data,
-while also being able to communicate my findings to non-technical stakeholders. I am
-comfortable working in a fast-paced environment and am able to meet tight deadlines.
-I have worked in various industries, including judiciary, e-commerce, and advertisement companies, and
-have experience with A/B testing, customer segmentation, and forecasting.I am a team player, and I am
-comfortable working with cross-functional teams to deliver projects on time and to the
-highest quality standards.
+I am a software Engineer and Data Analyst with a passion for Artificial Intelligence, Data, and Building Communities.
+I have a strong analytical mindset and can identify patterns and trends in data while also being able to communicate my findings to non-technical stakeholders.I am comfortable working in a fast-paced environment and can meet tight deadlines.
+I have worked in various industries, including the judiciary, e-commerce, and advertisement companies, and have experience with A/B testing, customer segmentation, and forecasting. I am a team player, and comfortable working with cross-functional teams to deliver projects on time and to the highest quality standards.
 
 <h3>Things I code with</h3>
 <p><img alt="Python"  src="https://img.shields.io/badge/-Python%20-green"/>
